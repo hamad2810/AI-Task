@@ -1,0 +1,6 @@
+
+https://ai.intelligentonlinetools.com/ml/k-means-clustering-example-word2vec/
+
+https://blog.eduonix.com/artificial-intelligence/clustering-similar-sentences-together-using-machine-learning/
+
+https://www.geeksforgeeks.org/python-measure-similarity-between-two-sentences-using-cosine-similarity/
